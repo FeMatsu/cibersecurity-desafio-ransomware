@@ -16,6 +16,7 @@ Em seguida, executei o comando: 'python encrypter.py'. Depois disso, usei novame
 
   
 Por fim, executei o comando 'python decrypter.py' que descriptografou o arquivo "teste.txt.ransomwaretroll", fazendo com que ele voltasse ao nome original, "teste.txt", com o mesmo conteúdo inicial.
+
   ![Captura de tela 2024-12-29 215856](https://github.com/user-attachments/assets/47b75c4e-1815-40bd-a20c-165cd66a1f21)
 
 
