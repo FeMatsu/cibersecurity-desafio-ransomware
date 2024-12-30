@@ -1,5 +1,6 @@
-#Resultado do Desafio Ransomware
+# Resultado do Desafio Ransomware
 
+## Resumo em Etapas
 Quando o código encrypter.py e decrypter.py estavam escritos escritos, Criei um arquivo chamado "teste.txt" e adicionei um conteúdo nele. Após salvar, utilizei o comando ``` ls ``` para listar os arquivos, e o resultado foi exibido corretamente.
 
 ![Captura de tela 2024-12-29 215629](https://github.com/user-attachments/assets/0319c0bd-a620-43c5-ac48-8bfa29fd9459)
